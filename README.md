@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="160px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="padding-right:10px;" />
-<img align="left" alt="Robot" width="160px" src="./img/robot.svg" style="padding-right:10px;" />
+<img align="left" alt="Robot" width="160px" src="./img/robot.png" style="padding-right:10px;" />
 
 <br />
 <br />
