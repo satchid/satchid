@@ -6,6 +6,10 @@
 - 🥅 2022 Goals: Learn more about k6 and performance testing.
 - ⚡ Fun fact: I love to eat and see new places.
 
+### Bio:
+- 🏢 I'm currently working remotely for Neurotrack.
+- 💬 I can talk about robot framework, cypress, qa stuff in general.
+- :email: satchid.das@gmail.com
 
 ### Languages and Tools:
 
