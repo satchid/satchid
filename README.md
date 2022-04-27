@@ -11,7 +11,7 @@
 
 <a href="https://www.python.org/"><img align="left" alt="Python" width="100px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="padding-right:10px;" /></a>
 <a href="https://robotframework.org/"><img align="left" alt="Robot" width="30px" src="./img/robot.png" style="padding-right:10px;"/></a>
-<a href="https://www.cypress.io/"><img align="left" alt="Cypress" width="30px" src="cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" style="padding-right:10px;"/></a>
+<a href="https://www.cypress.io/"><img align="left" alt="Cypress" width="30px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo.svg" style="padding-right:10px;"/></a>
 <br />
 <br />
 <br />
