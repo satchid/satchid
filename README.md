@@ -1,6 +1,6 @@
 # Hi there, I'm Satchid  👋 
 
-## I'm a Husband, Father, and QA Automation Engineer!!
+## QA Automation Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about k6 and performance testing.
