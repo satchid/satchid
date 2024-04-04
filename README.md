@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love to eat and see new places.
 
 ### Bio:
-- 🏢 I'm currently working remotely for Neurotrack.
-- 💬 I can talk about robot framework, cypress, qa stuff in general.
+- 🏢 I'm currently working remotely for Exact Payments.
+- 💬 I can talk about robot framework, playwright, qa stuff in general.
 - :email: satchid.das@gmail.com
 
 ### Languages and Tools:
