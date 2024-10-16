@@ -3,11 +3,11 @@
 ## QA Automation Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about k6 and performance testing.
+- 🥅 2024 Goals: Learn more about using OpenAI for testing.
 - ⚡ Fun fact: I love to eat and see new places.
 
 ### Bio:
-- 🏢 I'm currently working remotely for Exact Payments.
+- 🏢 I'm currently looking for my next gig.
 - 💬 I can talk about robot framework, playwright, qa stuff in general.
 - :email: satchid.das@gmail.com
 
@@ -15,7 +15,7 @@
 
 <a href="https://www.python.org/"><img align="left" alt="Python" width="100px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="padding-right:10px;" /></a>
 <a href="https://robotframework.org/"><img align="left" alt="Robot" width="100px" src="https://miro.medium.com/max/1106/1*wnMQPTmEsIq0TiRgfX4hig.png" style="padding-right:10px;"/></a>
-<a href="https://www.cypress.io/"><img align="left" alt="Cypress" width="100px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo.svg" style="padding-right:10px;"/></a>
+<a href="https://www.playwright.dev/"><img align="left" alt="Playwright" width="50px" src="https://playwright.dev/img/playwright-logo.svg" style="padding-right:10px;"/></a>
 <br />
 <br />
 <br />
